@@ -1,2 +1,2 @@
 # kmbr.github.io
-Interactive fiction and experimental works
+videogames, interactive fiction and demos.
