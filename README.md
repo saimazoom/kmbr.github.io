@@ -1,2 +1,2 @@
 # kmbr.github.io
-Videogames from KMBR
+Interactive fiction and experimental works
